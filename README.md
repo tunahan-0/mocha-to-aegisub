@@ -1,4 +1,4 @@
-# Mocha to Aegisub (v1.0.0)
+# Mocha to Aegisub (v1.0)
 
 [English](#english) | [Türkçe](#türkçe)
 
