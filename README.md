@@ -1,7 +1,9 @@
 # Mocha to Aegisub (v1.0)
 
-> **Not:** Bu proje, mevcut araçların günümüz optimizasyon standartlarından geri kalması nedeniyle, yapay zeka desteğiyle daha performanslı ve güncel bir alternatif olarak geliştirilmiştir.
-> **Note:** This project was developed with AI assistance to provide a high-performance, modern alternative to legacy tools that no longer meet today's optimization standards.
+> [!NOTE]
+> **TR:** Bu proje, mevcut araçların günümüz optimizasyon standartlarından geri kalması nedeniyle, yapay zeka desteğiyle daha performanslı ve güncel bir alternatif olarak geliştirilmiştir.
+>
+> **EN:** This project was developed with AI assistance to provide a high-performance, modern alternative to legacy tools that no longer meet today's optimization standards.
 
 [English](#english) | [Türkçe](#türkçe)
 
