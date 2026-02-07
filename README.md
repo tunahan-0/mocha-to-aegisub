@@ -1,10 +1,10 @@
 \# Mocha to Aegisub (v1.0.0)
 
-[English](#english) | [Türkçe](#turkce)
+[English](#english) | [Türkçe](#türkçe)
 
 ---
 
-## Turkce
+## Türkçe
 
 Bu Aegisub Scripti, Mocha üzerinden alınan tracking(takip) verilerini doğrudan Aegisub altyazılarına uygulamanızı sağlar. Ayrıca, tracking için video klipleri kırpan bir modülü de içerir.
 
